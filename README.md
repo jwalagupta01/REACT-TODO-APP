@@ -1,16 +1,89 @@
-# React + Vite
+# ✅ React Task Tracker (Todo App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, simple, and responsive **Todo App** built using **React JS** and **Bootstrap**.  
+This project is perfect for beginners learning React Hooks and state management.  
+Users can easily **add tasks, delete tasks, and manage their day-to-day work**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## React Compiler
+- **React JS**
+- **Bootstrap 5**
+- **React Icons (optional)**
+- **CSS Modules / Custom CSS**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ➕ Add New Tasks  
+- 🗑️ Delete Tasks  
+- 📱 Fully Responsive UI  
+- ⚡ Fast & Lightweight  
+- 🎨 Clean Bootstrap UI  
+
+---
+---
+
+## 🛠️ Installation & Setup
+
+### **1️⃣ Clone the Repository**
+```
+git clone https://github.com/yourusername/react-task-tracker.git
+cd react-task-tracker
+```
+
+### **2️⃣ Install Dependencies**
+```
+npm install
+```
+
+### **3️⃣ Start the Development Server**
+```
+npm run dev
+```
+
+Your app will run at:  
+👉 **http://localhost:5173**
+
+---
+
+## 🧩 Components Overview
+
+### **`TodoForm.jsx`**
+- Handles form input  
+- Adds a new task  
+
+### **`TodoList.jsx`**
+- Displays list of all tasks  
+
+### **`TodoItem.jsx`**
+- Individual task  
+- Delete / Complete functionality  
+
+---
+
+## 🎉 Demo (Optional)
+
+_Add screenshots or GIFs here if you want._  
+I can generate this section for you if you provide your screenshots.
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project:
+
+- ⭐ Star the repo  
+- 🍴 Fork the project  
+- 🔄 Contribute with pull requests  
+
+---
+
+## 📜 License
+This project is open-source and free to use.
+
+---
+
+Made with ❤️ by **Jwala Gupta**
