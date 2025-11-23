@@ -30,8 +30,8 @@ Users can easily **add tasks, delete tasks, and manage their day-to-day work**.
 
 ### **1️⃣ Clone the Repository**
 ```
-git clone https://github.com/yourusername/react-task-tracker.git
-cd react-task-tracker
+git clone (https://github.com/jwalagupta01/REACT-TODO-APP.git)
+cd REACT-TODO-APP
 ```
 
 ### **2️⃣ Install Dependencies**
